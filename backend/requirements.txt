@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+python-dotenv
+cryptography
+bcrypt
+PyJWT
+web3
+py-solc-x
+httpx

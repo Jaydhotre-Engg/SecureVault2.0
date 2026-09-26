@@ -1,0 +1,72 @@
+
+!.env.example
+!SecureVault/backend/storage/.gitkeep
+!storage/.gitkeep
+# ==========================================
+# Cython
+# DATABASES
+# Database
+# ENVIRONMENT / SECRETS
+# EVIDENCE / UPLOADED FILES
+# Environment
+# Evidence / uploaded files
+# HARDHAT / BLOCKCHAIN
+# Hardhat
+# IDE
+# Jupyter notebook
+# LOGS / TEMP
+# Logs
+# NODE
+# Node
+# OS
+# PYTHON
+# PyInstaller
+# Python
+# Root level sensitive files
+# SecureVault Specific
+# TEST / COVERAGE CACHE
+# Temporary files
+# Virtual Environment
+*.backup
+*.bak
+*.cert
+*.db
+*.db-*
+*.key
+*.log
+*.manifest
+*.pem
+*.py[cod]
+*.pyo
+*.so
+*.spec
+*.sqlite
+*.sqlite-*
+*.sqlite3
+.DS_Store
+.coverage
+.env
+.env.*
+.idea/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+.vscode/
+SecureVault/backend/storage/*
+Thumbs.db
+__pycache__/
+artifacts/
+backend/securevault.db*
+build/
+cache/
+dist/
+env/
+htmlcov/
+node_modules/
+securevault.db
+storage/*
+temp/
+tmp/
+typechain-types/
+venv/
+outer.env
